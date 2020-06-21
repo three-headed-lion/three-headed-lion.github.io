@@ -6,3 +6,10 @@ He is the main character of the kingkiller chronicles. He is like a rogue sorcer
 * highly intelligent
 * unorthodox thinking
 * strong willed
+
+As Kvothe said:
+
+> There are three things all wise men fear:
+> the sea in a storm,
+> a night with no moon
+> and the anger of a gentle man.
