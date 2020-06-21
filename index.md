@@ -13,3 +13,5 @@ As Kvothe said:
 > the sea in a storm,
 > a night with no moon
 > and the anger of a gentle man.
+
+<img src="https://kingkiller.wiki/w/images/kingkillerwiki/5/57/MainPage-Kvothe.jpg"/>
